@@ -1,38 +1,28 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# ignite-reactjs-03-dt-money
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+Consumo de API e performance no ReactJS
 
+Nesse módulo construiremos uma aplicação front-end web completa, conectando a uma API e veremos como performar aplicações com o React entendendo como funcionam os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
 
-## 💻 Projeto
+[https://steady-crostata-a0122c.netlify.app/](https://steady-crostata-a0122c.netlify.app/)
 
-ignite-reactjs-03-dt-money
+## Features
 
-## 📝 Licença
+- JSON Server
+- Axios (get transactions and add transactions) inside the Context API
+- React Hook Form w/ Zod and Controlled and Uncontrolled Components
+- Performance (React Developer Tools, `use-context-selector`, `useCallback`, `memo`, and `useMemo`)
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## Getting Started
 
----
+Install the dependencies:
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+- `npm i`
 
+Run the frontend:
 
-<!--START_SECTION:footer-->
+- `npm run dev`
 
-<br />
-<br />
+Run the development server:
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+- `npm run dev:server`
